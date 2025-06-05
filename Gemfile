@@ -57,7 +57,7 @@ group :development do
   gem "pry"
   gem "byebug"
   gem "dotenv-rails"
-  gem "listen", "~> 3.0.5"
+  gem "listen", "~> 3.9.0"
   gem "rspec-rails"
 end
 
